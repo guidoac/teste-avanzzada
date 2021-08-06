@@ -1,0 +1,6 @@
+{
+    "server": "http://localhost:5000",
+    "endpoints": {
+        "fieldsEndpoint": "/api/form-fields"
+    }
+}
